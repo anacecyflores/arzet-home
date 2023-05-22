@@ -1,6 +1,13 @@
-# Arzet Home Improvement
+# Arzet Home Improvement 🛠️
 
-![Arzet Home Improvement](https://Arzet-home-improvements.netlify.app/index.html)
+[Arzet Home Improvement](https://Arzet-home-improvements.netlify.app/index.html) 🔗
+
+
+## About
+Arzet Home Improvement is locally owned HandyMan service. Small business owner received this website in order to attract mopre clients and expand their brand. Application is designed to let interested people know the type of jobs done, who Arzate Home Improvements i sowned by and be able to contact them via email or call. 
+
+## ScreenShots<img width="1427" alt="Screenshot 2023-05-22 at 3 28 45 PM" src="https://github.com/anacecyflores1/arzet-home/assets/95557040/fdede4e6-c695-4e74-8cae-0ba55db56317">
+
 
 <!-- download -->
 
@@ -8,21 +15,7 @@
 
 - **Node Installation:** [Install node js](https://nodejs.org/en/download/)
 - **Gulp Installation:** Install gulp globally from your terminal
-
-```
-npm install --global gulp-cli
-```
-
-Or visit the original [Gulp docs](https://gulpjs.com/docs/en/getting-started/quick-start)
-
-#### Local setup
-
-After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
-
-- Install dependencies
-
-```
-npm install
+tall
 ```
 
 - Run locally
@@ -30,9 +23,6 @@ npm install
 ```
 npm run dev
 ```
-
-After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live reload the browser when changes are saved.
-
 <!-- licence -->
 
 ## License
